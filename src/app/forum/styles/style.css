@@ -1,0 +1,32 @@
+.title {
+    color: white;
+    text-align: center;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.home {
+    position: absolute;
+    top: 10%;
+    left: 97%;
+}
+
+.questions {
+    position: absolute;
+    top: 20%;
+    left: 96%;
+}
+
+.post {
+    position: absolute;
+    top: 10%;
+    right: 94%;
+}
+
+.Profile {
+    position: absolute;
+    top: 20%;
+    right: 97%;
+}
